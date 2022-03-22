@@ -1,4 +1,4 @@
-Ya estoy inscrito en la organización, HURRAAAAAAAAAAAA!!!
+¡Bienvenido al mundo de Monster Hunter!
 
 <!---
 LoneWyernHunter/LoneWyernHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
